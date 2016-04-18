@@ -23,7 +23,7 @@
         设置AccessKey，在application标签中加入
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="Hzm1uKyCgA056OIqqmgu2hTMAv5HkeyE" />  //key:开发者申请的key
+            android:value="XXXXXXXXX" />  //key:开发者申请的key
 
 
         <activity android:name=".MainActivity">
